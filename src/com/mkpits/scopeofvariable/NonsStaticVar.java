@@ -1,7 +1,7 @@
 package com.mkpits.scopeofvariable;
 
 public class NonsStaticVar {
-	public char interested = 'y';
+	public char interested = 'Y';
 	public int pinCode = 440012;
 	public byte num = 123;
 	public short employeeID = 2446;
@@ -15,7 +15,7 @@ public class NonsStaticVar {
 		// TODO Auto-generated method stub
 		NonsStaticVar var =  new NonsStaticVar();
 		
-		System.out.println("Are you interest to logout "+ var.interested);
+		System.out.println("Are you interest to logout : "+ var.interested);
 		System.out.println("This is the Pincode :" +var.pinCode);
 		System.out.println("This is the number : " +var.num );
 		System.out.println("This is the employeeID :" +var.employeeID);
