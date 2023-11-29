@@ -34,7 +34,7 @@ public class StaticMethodDec {
 	}
 	public static void getMobile() {
 		// TODO Auto-generated method stub
-		String mobile = "9756897345";	
+		long mobile = 9756897345L;	
 		System.out.println("The Mobile Number is : "+mobile);
 	}
 	public static void getGender() {
