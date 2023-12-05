@@ -1,4 +1,4 @@
-package mkpits_method;
+package com.mkpits.method;
 
 public class AllMethod {
 
@@ -66,5 +66,5 @@ public class AllMethod {
 		return fname;
 	
 	}
-	int id 
+	
 }
